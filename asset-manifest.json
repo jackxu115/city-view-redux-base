@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/city-view-redux-base/static/css/main.91d229d7.css",
+    "main.js": "/city-view-redux-base/static/js/main.33161cd4.js",
+    "index.html": "/city-view-redux-base/index.html",
+    "main.91d229d7.css.map": "/city-view-redux-base/static/css/main.91d229d7.css.map",
+    "main.33161cd4.js.map": "/city-view-redux-base/static/js/main.33161cd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91d229d7.css",
+    "static/js/main.33161cd4.js"
+  ]
+}
